@@ -1,0 +1,3 @@
+list_clubs:
+    path:     /listClubs
+    defaults: { _controller: ClubsBundle:Default:List }
